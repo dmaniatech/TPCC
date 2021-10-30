@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#contenedor{
+	margin: auto;
+	background:  white  ;
+}
+
+/*Sobre Nosotros*/
+
+ h2{
+ 	text-align: center;
+	font-size: 50px ;
+	font-family: 'Slabo 27px', serif;;
+	padding: 0px;
+
+ }
+
+ h3{
+ 	text-align: center;
+ 	font-size: 25px;
+ 	font-family: 'Noto Serif', serif;
+ }
+
+p{
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
+}
+
+.historia{
+ 	
+ 	height: 500px;
+ 	text-align: center;
+ 	background:  #FFCA82 ;
+ 	padding: 100px 10px;
+	
+ }
+
+.p_historia{
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
+	width: 1100px;
+	margin: 0px 120px; 
+}
+
+
+ /*Contacto*/
+
+.sucursales{
+	background: #625E5B;
+	height: 550px;
+ 	text-align: center;
+ 	padding: 100px 10px;
+ 	color: #ffffff ;
+}
+
+
+.contacto{
+	background: #FFE583   ;
+	height: 590px;
+	padding: 50px 10px;
+
+}
+
+#texto{
+	text-align: center;
+	padding-top: 10px
+}
+
+#texto input{
+		margin: 5px;
+		padding: 10px;
+		font: 17px serif;
+		height: 50px;
+		width: 280px;
+		box-shadow: 2px 2px 10px #666; 
+		border-radius: 10px;
+}
+
+
+#input_ase{
+	padding: 10px;
+	font: 20px serif;
+	margin: 5px;
+	height: 50px;
+	float: left;
+	
+}
+
+
+textarea{
+		margin: 20px 10px 20px 400px;
+		padding: 10px;
+		font: 17px serif;
+		height: 150px;
+		width: 380px;
+		box-shadow: 2px 2px 2px #666; 
+		border-radius: 10px;
+		float: left;
+}
+
+
+#boton {
+	clear: both;
+	text-align: center;
+}
+
+#boton input{
+	
+	text-align: center;
+    padding: 10px 40px;
+    margin: 25px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px #666; 
+    background: #F39C12;
+
+}
+
+#ubicacion{
+	background: #C6C6C6;
+	height: 660px;
+	padding: 50px 10px;
+}
+
+.iframe{
+	padding: 20px;
+	text-align: center;
+}
+
+.ul{
+    text-align: left;
+    margin: 30px 500px;
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+}
+
+.articulos{
+     background: #FFF2D6;
+     height: 500px;
+     padding: 100px
+}
+
+.p_articulos{
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+      width: 700px;
+      margin: 40px 250px;
+}
+
+.servicios{
+     background:  #FFCA82 ;
+     height: 500px;
+     padding: 100px 10px 0px 10px;
+}
+
+.p_servicios{
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#pie{
+	background:  #564F44;
+	height: 100px;
+}
+
+.parrafo{
+	color: white;
+	font-family: 'Noto Serif', serif;
+    padding: 20px 200px;
+    float: left;
+}
+
+.parrafo p{
+	font-size: 15px;
+}
+
+.RedesSociales{
+	padding: 30px 100px 10px 900px;
+
+}
+

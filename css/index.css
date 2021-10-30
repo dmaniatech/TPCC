@@ -1,0 +1,19 @@
+.carousel-item {
+  height: 585px;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.carousel-caption {
+	background-color: rgba(2, 4, 5, 0.8);
+	border-radius: 10px;
+}
+
+.recuadro {
+	margin-bottom: 180px;
+}
